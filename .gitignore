@@ -1,0 +1,11 @@
+*.xml
+prefixes.xml
+apps.xml
+wine.xml
+rww.jar
+*.appimage
+*.AppImage
+/prefixes
+/wine
+/bin
+/sourcetrail
